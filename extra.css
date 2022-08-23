@@ -1,0 +1,13 @@
+li:last-child {
+    border-bottom: none;
+}
+
+li {
+    text-align: center;
+    border-bottom: 1 px solid #555;
+}
+
+li a:hover {
+    background-color: rgb(160, 160, 160);
+    color:white;
+}
